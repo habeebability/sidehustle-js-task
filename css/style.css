@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 60vw;
+  height: 40vh;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: aquamarine;
+
+}
+.paragraphs {
+  width: 60vw;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.special {
+  background-color: blueviolet;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 2rem;
+}
+p {
+  padding-top: 20px;
+  font-size: 20px;
+}
+
